@@ -1,0 +1,60 @@
+Initialize engine version: 5.6.6f2 (6bac21139588)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon R7 Graphics (ID=0x9874)
+    Vendor:   ATI
+    VRAM:     2293 MB
+    Driver:   23.20.788.0
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Kerjaan Proyek\Test\latihan\BolaChakra_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Kerjaan Proyek\Test\latihan\BolaChakra_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Kerjaan Proyek\Test\latihan\BolaChakra_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Kerjaan Proyek\Test\latihan\BolaChakra_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Kerjaan Proyek\Test\latihan\BolaChakra_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Kerjaan Proyek\Test\latihan\BolaChakra_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Kerjaan Proyek\Test\latihan\BolaChakra_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Kerjaan Proyek\Test\latihan\BolaChakra_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.302 seconds
+Platform assembly: E:\Kerjaan Proyek\Test\latihan\BolaChakra_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Kerjaan Proyek\Test\latihan\BolaChakra_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 37.700665 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2644 -> priority: 1 
+  Thread -> id: 2bac -> priority: 1 
+nyawa = 3 - 1 result: 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+nyawa = 2 - 1 result: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+nyawa = 1 - 1 result: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NOOB
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+nyawa = 3 - 1 result: 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+nyawa = 2 - 1 result: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+nyawa = 1 - 1 result: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NOOB
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
